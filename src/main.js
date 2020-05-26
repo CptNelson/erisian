@@ -185,13 +185,13 @@ let WeightedRandomBag = function () {
 let notesWeight = [
   { note: 0, weight: 1 },
   { note: 1, weight: 3 },
-  { note: 2, weight: 6 },
+  { note: 2, weight: 15 },
   { note: 3, weight: 2 },
-  { note: 4, weight: 5 },
+  { note: 4, weight: 10 },
   { note: 5, weight: 2 },
-  { note: 6, weight: 4 },
+  { note: 6, weight: 7 },
   { note: 7, weight: 2 },
-  { note: 8, weight: 3 },
+  { note: 8, weight: 4 },
   //  { note: 9, weight: 5 },
 ];
 
